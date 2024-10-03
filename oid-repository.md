@@ -1,5 +1,5 @@
 |OID|Issuer|Meaning|url|
---------------------
+|---|------|-------|---|
 |2.16.840.1.113883.2.4.3.224|Stichting HL7 Nederland|Identifier van de organisatie Zorg bij jou B.V.|zorgbijjou.nl|
 |2.16.840.1.113883.2.4.3.224.1|Zorg bij jou B.V.|Branch voor identifiers van door Zorg bij jou aangeboden applicaties|zorgbijjou.com|
 |2.16.840.1.113883.2.4.3.224.2|Zorg bij jou B.V.|Branch voor identifiers van definities van door Zorg bij jou geleverde activiteiten|zorgbijjou.nl|
